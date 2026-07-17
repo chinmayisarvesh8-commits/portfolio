@@ -54,4 +54,4 @@ I am passionate about Software Development, Java Programming, Data Structures, a
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
