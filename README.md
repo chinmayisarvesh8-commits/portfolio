@@ -1,6 +1,6 @@
-# Hi 👋, I'm Chinmayi M S
+# Hi , I'm Chinmayi M S
 
-### 💻 Computer Science Engineering Student
+###  Computer Science Engineering Student
 
 Welcome to my GitHub profile!
 
@@ -8,16 +8,16 @@ I am passionate about Software Development, Java Programming, Data Structures, a
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.E. in Computer Science Engineering
-- 🌱 Currently learning Java, DSA, and Full Stack Web Development
-- 💡 Interested in Software Development and Problem Solving
-- 🎯 Goal: Become a Software Engineer
+-  B.E. in Computer Science Engineering
+- Currently learning Java, DSA, and Full Stack Web Development
+- Interested in Software Development and Problem Solving
+-  Goal: Become a Software Engineer
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming Languages**
 - Java
@@ -36,16 +36,16 @@ I am passionate about Software Development, Java Programming, Data Structures, a
 
 ---
 
-## 📂 Projects
+##  Projects
 
-- 🌐 Portfolio Website
-- 📝 Task Management System
-- 🤖 NapTime AI Landing Page
-- 🦯 Intelligent Voice Feedback Blind Stick (Major Project)
+-  Portfolio Website
+-  Task Management System
+-  NapTime AI Landing Page
+-  Intelligent Voice Feedback Blind Stick (Major Project)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/chinmayisarvesh8
 - Portfolio: https://chinmayisarvesh8.github.io/portfolio/
